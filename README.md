@@ -1,4 +1,4 @@
-<h1 align="center">Digital-House: 1 ͦ  Checkpoint de Programação Imperativa!</h1>
+<h1 align="center">Digital House: 1 ͦ  Checkpoint de Programação Imperativa!</h1>
 
 <h2 align="justify"> Módulo I 🎓 </h2> 
 
